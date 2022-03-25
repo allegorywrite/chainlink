@@ -1,0 +1,3 @@
+[submodule "ExternalAdapter"]
+	path = ExternalAdapter
+	url = git@github.com:allegorywrite/chainlink.git
